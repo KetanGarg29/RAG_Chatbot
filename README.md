@@ -12,13 +12,13 @@ This project is a fine-tuned diet chatbot built using Retrieval-Augmented Genera
 
 🛠️ Setup Instructions
 1. Clone the Repository
-git clone https://github.com/your-username/RAG_Chatbot.git
-cd diet-chatbot
+- git clone https://github.com/your-username/RAG_Chatbot.git
+- cd diet-chatbot
 
 2. Create a Virtual Environment
-python -m venv venv
-source venv/bin/activate      # On Linux/macOS
-venv\Scripts\activate         # On Windows
+- python -m venv venv
+- source venv/bin/activate      # On Linux/macOS
+- venv\Scripts\activate         # On Windows
 
 3. Install Requirements
-pip install -r requirements.txt
+- pip install -r requirements.txt
