@@ -20,11 +20,11 @@ This project is a fine-tuned diet chatbot built using Retrieval-Augmented Genera
 
 2. **Create a Virtual Environment**
    ```bash
-python -m venv venv
-source venv/bin/activate      # On Linux/macOS
-venv\Scripts\activate         # On Windows
-Install Requirements
+   python -m venv venv
+   source venv/bin/activate      # On Linux/macOS
+   venv\Scripts\activate         # On Windows
+   Install Requirements
 
 4. **Install the Requirements**
    ```bash
-pip install -r requirements.txt
+   pip install -r requirements.txt
